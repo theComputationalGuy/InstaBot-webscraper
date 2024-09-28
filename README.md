@@ -3,7 +3,7 @@
 Now your friend has followed a lot of different food bloggers, he needs to analyse the habits of these bloggers. 
 1. From the list of instagram handies you obtained when you searched 'food' in previous project. Open the first 10 handles and find the top 5 which have the highest number of followers
 2. Now Find the number of posts these handles have done in the previous 3 days.
-3. Depict this information using a suitable graph. 2.
+3. Depict this information using a suitable graph.
 
 Your friend also needs a list of hashtags that he should use in his posts. 
 1. Open the 5 handles you obtained in the last question, and scrape the content of the first 10 posts of each handle.
